@@ -28,7 +28,7 @@ Clash for Windows 提供自动回退、负载均衡和延迟测试等功能，�
 
 ## 如何使用 Clash for Windows？
 
-Clash for Windows 使用简单，界面友好，适合各类用户。无论您是需要保护数据安全的技术人员，还是喜欢畅玩游戏的玩家，Clash for Windows 都能为您提供稳定、高效的代理服务。您可以访问 [Clash for Windows 官网](https://clashwindows.com) 获取更多详细信息和下载安装包。
+Clash for Windows 使用简单，界面友好，适合各类用户。无论您是需要保护数据安全的技术人员，还是喜欢畅玩游戏的玩家，Clash for Windows 都能为您提供稳定、高效的代理服务。您可以访问 [Clash for Windows 官网](https://clash4.win) 获取更多详细信息和下载安装包。
 
 ## 机场推荐
 
