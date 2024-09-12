@@ -1,5 +1,5 @@
 # Clash for Windows
-[Clash for Windows](https://clash4.win/) 一款基于 Clash 内核的 Windows 平台代理工具。
+[Clash for Windows](https://clashfor.org/) 一款基于 Clash 内核的 Windows 平台代理工具。
 
 Clash for Windows 是一款专为 Windows 平台设计的代理工具，利用强大的 Clash 内核提供多样化的网络代理功能。无论您是寻找高速稳定的网络连接，还是需要解锁地理限制的内容，Clash for Windows 都能满足您的需求。
 
@@ -28,7 +28,7 @@ Clash for Windows 提供自动回退、负载均衡和延迟测试等功能，�
 
 ## 如何使用 Clash for Windows？
 
-Clash for Windows 使用简单，界面友好，适合各类用户。无论您是需要保护数据安全的技术人员，还是喜欢畅玩游戏的玩家，Clash for Windows 都能为您提供稳定、高效的代理服务。您可以访问 [Clash for Windows 官网](https://clash4.win) 获取更多详细信息和下载安装包。
+Clash for Windows 使用简单，界面友好，适合各类用户。无论您是需要保护数据安全的技术人员，还是喜欢畅玩游戏的玩家，Clash for Windows 都能为您提供稳定、高效的代理服务。您可以访问 [Clash for Windows 官网](https://clashfor.org/) 获取更多详细信息和下载安装包。
 
 ## 机场推荐
 
