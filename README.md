@@ -34,11 +34,11 @@ Clash for Windows 使用简单，界面友好，适合各类用户。无论您�
 
 以下是一些靠谱的推荐机场，为用户提供优质的网络代理服务：
 
-- **CyberGuard**：高速IEPL/IPLC专线，每月仅需￥18.00 [https://jump.p6p.net/1](https://jump.p6p.net/1)。
-- **EFCloud**：TG万人人气机场，价格实惠，每月仅需￥10.00 [https://jump.p6p.net/16](https://jump.p6p.net/16)。
-- **XXAI**：助力企业更高效地应用AI工具，￥16.9/月 [https://jump.p6p.net/118](https://jump.p6p.net/118)
-- **可乐云**：支持8K无卡顿播放，每月￥38.00，适合高清视频需求 [https://jump.p6p.net/14](https://jump.p6p.net/14)。
-- **大哥云**：基于全新的V2ray网络协议，￥19.90/月 [https://jump.p6p.net/8](https://jump.p6p.net/8)。
+- **CyberGuard**：高速IEPL/IPLC专线，每月仅需￥18.00 [https://tiao.bid/1](https://tiao.bid/1)。
+- **EFCloud**：TG万人人气机场，价格实惠，每月仅需￥10.00 [https://tiao.bid/16](https://tiao.bid/16)。
+- **XXAI**：助力企业更高效地应用AI工具，￥16.9/月 [https://tiao.bid/118](https://tiao.bid/118)
+- **可乐云**：支持8K无卡顿播放，每月￥38.00，适合高清视频需求 [https://tiao.bid/14](https://tiao.bid/14)。
+- **大哥云**：基于全新的V2ray网络协议，￥19.90/月 [https://tiao.bid/8](https://tiao.bid/8)。
 
 ## 结语
 
